@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mooc.vandy.java4android.gate.logic.UnitTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-06T10:13:09" hostname="LAPTOP-JE5L3EQN" time="0.01">
+  <properties/>
+  <testcase name="testGateConstructor" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
